@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid rgb(255, 0, 0);
+}
+</style>
+<body>
+
+<table style="width: 100% ; min-height: 100vh;">
+  <tr>
+    <th colspan="3" >
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo%21_Logo.svg/1200px-Logo%21_Logo.svg.png" style="width:100px; height: 50px;">
+    </th>
+  </tr>
+
+  <tr>
+    <td rowspan="6"; style="max-wight: 50px;"> <h1>Title name 1</h1> One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.<br> He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.<br> The bedding was hardly able to cover it and seemed ready to slide off any moment. <br>His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked.<br> "What's happened to me?" he thought.<br> It wasn't a dream. His room, a proper human</td>
+    <td rowspan="3"> <h1>Title name 2</h1>  One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.<br> He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.<br> The bedding was hardly able to cover it and seemed ready to slide off any moment. <br>His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked.<br> "What's happened to me?" he thought.<br> It wasn't a dream. His room, a proper human</td>
+    <td rowspan="2"> <h1>Title name 4</h1> One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.<br> He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.<br> The bedding was hardly able to cover it and seemed ready to slide off any moment. <br>His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked.<br> "What's happened to me?" he thought.<br> It wasn't a dream. His room, a proper human</td>
+  </tr>
+
+  <tr></tr>
+
+  <tr>
+    <td rowspan="2"> <h1>Title name 5</h1> Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.<br> Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. <br>A small river named Duden flows by their place and supplies it with the necessary regelialia. <br>It is a paradisematic country, in which roasted parts of sentences fly into your mouth. <br>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to
+
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="3"> <h1>Title name 3</h1>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.<br> Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. <br>A small river named Duden flows by their place and supplies it with the necessary regelialia. <br>It is a paradisematic country, in which roasted parts of sentences fly into your mouth. <br>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2"> <h1>Title name 6</h1>The quick, brown fox jumps over a lazy dog.<br> DJs flock by when MTV ax quiz prog.<br> Junk MTV quiz graced by fox whelps.<br> Bawds jog, flick quartz, vex nymphs.<br> Waltz, bad nymph, for quick jigs vex!<br> Fox nymphs grab quick-jived waltz. <br>Brick quiz whangs jumpy veldt fox. Bright vixens jump; dozy fowl quack. Quick wafting zephyrs vex bold Jim. Quick zephyrs blow, vexing daft Jim. Sex-charged fop blew my junk TV quiz. How quickly daft jumping zebras vex.<br> Two driven jocks help fax my big quiz.<br>Quick, Baz, get my woven flax jodhpurs! "Now fax quiz Jack!" my brave<br>
+
+    </td>
+  </tr>
+
+  <tr></tr>
+
+<tr>
+   <th colspan=3>© 2021 NOone Media LLC. All Rights(to the people)</td>
+  </tr>  
+</table>
+
+</body>
+</html>
